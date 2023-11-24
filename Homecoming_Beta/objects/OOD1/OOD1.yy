@@ -31,6 +31,7 @@
   ],
   "solid": false,
   "spriteId": {
+<<<<<<< Updated upstream
     "name": "SOD1",
     "path": "sprites/SOD1/SOD1.yy",
   },
@@ -38,5 +39,11 @@
     "name": "SOD1",
     "path": "sprites/SOD1/SOD1.yy",
   },
+=======
+    "name": "SOD",
+    "path": "sprites/SOD/SOD.yy",
+  },
+  "spriteMaskId": null,
+>>>>>>> Stashed changes
   "visible": true,
 }
