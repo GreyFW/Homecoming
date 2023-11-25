@@ -1,1 +1,1 @@
-global.diagPhrase = "Стану одним из жителей Чернолеса."
+global.diagPhrase = "И вот я здесь!"

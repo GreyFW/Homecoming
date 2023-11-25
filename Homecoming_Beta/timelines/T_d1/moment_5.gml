@@ -1,1 +1,0 @@
-global.diagPhrase = "Ты знал! Ты ждал!"

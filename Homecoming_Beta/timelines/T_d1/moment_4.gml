@@ -1,1 +1,1 @@
-global.diagPhrase = "Вернулся!"
+global.diagPhrase = "Вернулся за ней."

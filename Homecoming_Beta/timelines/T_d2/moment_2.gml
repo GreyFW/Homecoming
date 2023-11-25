@@ -1,2 +1,1 @@
-global.diagPhrase = "Вы хотели меня удержать."
-
+global.diagPhrase = "Подари нам последнюю встречу."

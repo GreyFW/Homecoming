@@ -1,0 +1,1 @@
+global.diagPhrase = "В обмен на мою свободу."
