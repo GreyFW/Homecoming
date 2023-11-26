@@ -2,7 +2,13 @@
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
     {"name":"SOD7","order":1,"path":"sprites/SOD7/SOD7.yy",},
+    {"name":"oItem","order":3,"path":"objects/oItem/oItem.yy",},
+    {"name":"scAddItem","order":1,"path":"scripts/scAddItem/scAddItem.yy",},
     {"name":"OOD7","order":1,"path":"objects/OOD7/OOD7.yy",},
+    {"name":"sCellInvent","order":2,"path":"sprites/sCellInvent/sCellInvent.yy",},
+    {"name":"sFishInvent","order":3,"path":"sprites/sFishInvent/sFishInvent.yy",},
     {"name":"T_d2","order":1,"path":"timelines/T_d2/T_d2.yy",},
+    {"name":"Sprite10","order":1,"path":"sprites/Sprite10/Sprite10.yy",},
+    {"name":"oCellInv","order":2,"path":"objects/oCellInv/oCellInv.yy",},
   ],
 }
