@@ -2,6 +2,7 @@
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
     {"name":"s5","order":8,"path":"sprites/s5/s5.yy",},
+    {"name":"oWarp","order":4,"path":"objects/oWarp/oWarp.yy",},
     {"name":"SOD7","order":1,"path":"sprites/SOD7/SOD7.yy",},
     {"name":"s4","order":7,"path":"sprites/s4/s4.yy",},
     {"name":"oItem","order":3,"path":"objects/oItem/oItem.yy",},
@@ -9,8 +10,10 @@
     {"name":"s3","order":6,"path":"sprites/s3/s3.yy",},
     {"name":"s9","order":12,"path":"sprites/s9/s9.yy",},
     {"name":"OOD7","order":1,"path":"objects/OOD7/OOD7.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"s8","order":11,"path":"sprites/s8/s8.yy",},
     {"name":"s10","order":13,"path":"sprites/s10/s10.yy",},
+    {"name":"sWarpSt","order":18,"path":"sprites/sWarpSt/sWarpSt.yy",},
     {"name":"sRun","order":17,"path":"sprites/sRun/sRun.yy",},
     {"name":"sCellInvent","order":2,"path":"sprites/sCellInvent/sCellInvent.yy",},
     {"name":"sFishInvent","order":3,"path":"sprites/sFishInvent/sFishInvent.yy",},
