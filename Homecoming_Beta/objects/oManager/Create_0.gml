@@ -3,7 +3,7 @@ global.arraySize = 1;
 
 for (i = 0; i < global.arraySize; i++) {
 	global.invent[i] = false;
-	instance_create_depth(64, 20, 0, oCellInv).cell=i;
+	instance_create_depth(50, 25, 0, oCellInv).cell=i;
 }
 
 // диалоги

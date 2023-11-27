@@ -1,3 +1,4 @@
+if (distance_to_object(oPlayer)<30) {  	
 	for (i = 0; i < global.arraySize; i++) {
 		if (!is_struct(global.invent[i])) {
 			 global.invent[i] = new add_item(nameItem, num, maxNum, sprite);
@@ -10,9 +11,9 @@
 			     exit;
 			 }
 	
-	}	
+		}	
+	}
 }
-
 
 
 
