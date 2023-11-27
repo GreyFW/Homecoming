@@ -1,1 +1,1 @@
-global.diagPhrase = "Думал, ты не отпустишь меня."
+global.diagPhrase = "Думал, что не отпустишь."

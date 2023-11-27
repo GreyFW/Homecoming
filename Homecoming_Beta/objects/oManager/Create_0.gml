@@ -1,9 +1,9 @@
 //инвентарь
-global.arraySize = 1;
-
+global.arraySize = 3;
+global.takeItem = false;
 for (i = 0; i < global.arraySize; i++) {
 	global.invent[i] = false;
-	instance_create_depth(50, 25, 0, oCellInv).cell=i;
+	instance_create_depth(32*i, 0, 0, oCellInv).cell=i;
 }
 
 // диалоги
