@@ -33,5 +33,5 @@
     "path": "sprites/sWarpSt/sWarpSt.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
