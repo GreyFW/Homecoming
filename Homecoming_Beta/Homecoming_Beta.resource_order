@@ -1,6 +1,8 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
+    {"name":"oRoot2","order":7,"path":"objects/oRoot2/oRoot2.yy",},
+    {"name":"sRoot1","order":22,"path":"sprites/sRoot1/sRoot1.yy",},
     {"name":"s5","order":8,"path":"sprites/s5/s5.yy",},
     {"name":"oWarp","order":4,"path":"objects/oWarp/oWarp.yy",},
     {"name":"SOD7","order":1,"path":"sprites/SOD7/SOD7.yy",},
@@ -18,17 +20,16 @@
     {"name":"sRun","order":17,"path":"sprites/sRun/sRun.yy",},
     {"name":"sCellInvent","order":2,"path":"sprites/sCellInvent/sCellInvent.yy",},
     {"name":"sFishInvent","order":3,"path":"sprites/sFishInvent/sFishInvent.yy",},
-    {"name":"s11","order":14,"path":"sprites/s11/s11.yy",},
     {"name":"T_d2","order":1,"path":"timelines/T_d2/T_d2.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"oCellInv","order":2,"path":"objects/oCellInv/oCellInv.yy",},
+    {"name":"sRoot2","order":23,"path":"sprites/sRoot2/sRoot2.yy",},
     {"name":"sRoom2","order":19,"path":"sprites/sRoom2/sRoom2.yy",},
     {"name":"s2","order":5,"path":"sprites/s2/s2.yy",},
     {"name":"sMermaid","order":21,"path":"sprites/sMermaid/sMermaid.yy",},
     {"name":"s7","order":10,"path":"sprites/s7/s7.yy",},
-    {"name":"s12","order":15,"path":"sprites/s12/s12.yy",},
+    {"name":"oRoot1","order":6,"path":"objects/oRoot1/oRoot1.yy",},
     {"name":"s6","order":9,"path":"sprites/s6/s6.yy",},
     {"name":"s1","order":4,"path":"sprites/s1/s1.yy",},
-    {"name":"s13","order":16,"path":"sprites/s13/s13.yy",},
   ],
 }
