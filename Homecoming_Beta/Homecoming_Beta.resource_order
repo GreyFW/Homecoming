@@ -29,6 +29,7 @@
     {"name":"sMermaid","order":21,"path":"sprites/sMermaid/sMermaid.yy",},
     {"name":"s7","order":10,"path":"sprites/s7/s7.yy",},
     {"name":"oRoot1","order":6,"path":"objects/oRoot1/oRoot1.yy",},
+    {"name":"oPartSystem","order":8,"path":"objects/oPartSystem/oPartSystem.yy",},
     {"name":"s6","order":9,"path":"sprites/s6/s6.yy",},
     {"name":"s1","order":4,"path":"sprites/s1/s1.yy",},
   ],

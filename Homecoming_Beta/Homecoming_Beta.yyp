@@ -77,6 +77,7 @@
     {"id":{"name":"sMermaid","path":"sprites/sMermaid/sMermaid.yy",},},
     {"id":{"name":"s7","path":"sprites/s7/s7.yy",},},
     {"id":{"name":"oRoot1","path":"objects/oRoot1/oRoot1.yy",},},
+    {"id":{"name":"oPartSystem","path":"objects/oPartSystem/oPartSystem.yy",},},
     {"id":{"name":"s6","path":"sprites/s6/s6.yy",},},
     {"id":{"name":"s1","path":"sprites/s1/s1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
