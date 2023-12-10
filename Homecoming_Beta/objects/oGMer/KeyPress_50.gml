@@ -1,0 +1,13 @@
+sprite_index = sGMer
+
+
+
+
+
+
+
+
+
+
+
+
